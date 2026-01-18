@@ -26,5 +26,5 @@ Currently, I am sharing my learning journey in Data Analytics as part of my comm
 ---
 
 ## 📫 Contact Me
-- GitHub: https://github.com/rheva17  
-- Medium: https://medium.com/@username  
+- GitHub:  https://github.com/ayndcell-commits
+- Medium:   https://medium.com/@ayndcell
