@@ -30,13 +30,13 @@ Currently, I am sharing my learning journey in Data Analytics as part of my comm
 - Medium:   https://medium.com/@ayndcell
 
 
-  ## 🗓️ Timeline
+## 🗓️ Timeline
 
-| Week | Lessons / Tasks Done 🎯 | Reference Links 🔗 |
-|------|-------------------------|--------------------|
-| Week 1 | Teacher's Daily Teaching Journal System & Sales Data Management Telegram Bot |  |
-| Week 2 | Data Collection & Understanding | 📅 Day 1: https://medium.com/@ayndcell/dasar-query-select-pada-mysql-cara-mengambil-data-dari-tabel-6fd2830003c0 
-📅 Day 2:  https://medium.com/@ayndcell/dasar-query-select-pada-mysql-cara-mengambil-data-dari-tabel-6fd2830003c0|
+| Week   | Lessons / Tasks Done 🎯 | Reference Links 🔗 |
+|--------|--------------------------|--------------------|
+| Week 1 | Orientasi Industri & Literasi Data | - |
+| Week 2 | Data Collection & Understanding | 📘 Day 1: [Creating Tables and Running Basic SQL Queries Using Command Line](https://medium.com/@ayndcell)<br>📘 Day 2: [Using Alias and String Functions in SQL Queries](https://medium.com/@ayndcell) |
+
 
 
 ---
