@@ -35,7 +35,7 @@ Currently, I am sharing my learning journey in Data Analytics as part of my comm
 | Week   | Lessons / Tasks Done 🎯 | Reference Links 🔗 |
 |--------|--------------------------|--------------------|
 | Week 1 | Orientasi Industri & Literasi Data | - |
-| Week 2 | Data Collection & Understanding | 📘 Day 1: [Creating Tables and Running Basic SQL Queries Using Command Line ](https://medium.com/@ayndcell)<br>📘 Day 2: [Using Alias and String Functions in SQL Queries](https://medium.com/@ayndcell) |
+| Week 2 | Data Collection & Understanding | 📘 Day 1: [Creating Tables and Running Basic SQL Queries Using Command Line ](https://medium.com/@ayndcell) ()(https://medium.com/@ayndcell/penggunaan-select-distinct-prefix-kolom-dan-alias-pada-sql-dalam-pengolahan-data-22bb3637dc96)<br>📘 Day 2: [Using Alias and String Functions in SQL Queries](https://medium.com/@ayndcell) |
 
 
 
