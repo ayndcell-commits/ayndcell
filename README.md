@@ -117,17 +117,6 @@ Let’s learn and grow together 🚀
 
 🎵 TikTok → https://tiktok.com/@yourusername
 
-## 🗓️ Timeline
-
-| Week   | Lessons / Tasks Done 🎯 | Reference Links 🔗 |
-|--------|--------------------------|--------------------|
-| Week 1 | Orientasi Industri & Literasi Data | - |
-| Week 2 | Data Collection & Understanding | 📘 Day 1: [Creating Tables and Running Basic SQL Queries Using Command Line ](https://medium.com/@ayndcell)(https://medium.com/@ayndcell/dasar-query-select-pada-mysql-cara-mengambil-data-dari-tabel-6fd2830003c0). (https://medium.com/@ayndcell/penggunaan-select-distinct-prefix-kolom-dan-alias-pada-sql-dalam-pengolahan-data-22bb3637dc96)<br>📘 Day 2: [Using Alias and String Functions in SQL Queries](https://medium.com/@ayndcell) |
-
-
-
----
-
 ⭐ Support & Feedback
 
 If you find this repository useful:
@@ -139,3 +128,14 @@ If you find this repository useful:
 💬 Share feedback or suggestions
 
 📌 This repository will be continuously updated throughout my 90-days internship journey.
+
+## 🗓️ Timeline
+
+| Week   | Lessons / Tasks Done 🎯 | Reference Links 🔗 |
+|--------|--------------------------|--------------------|
+| Week 1 | Orientasi Industri & Literasi Data | - |
+| Week 2 | Data Collection & Understanding | 📘 Day 1: [Creating Tables and Running Basic SQL Queries Using Command Line ](https://medium.com/@ayndcell)(https://medium.com/@ayndcell/dasar-query-select-pada-mysql-cara-mengambil-data-dari-tabel-6fd2830003c0). (https://medium.com/@ayndcell/penggunaan-select-distinct-prefix-kolom-dan-alias-pada-sql-dalam-pengolahan-data-22bb3637dc96)<br>📘 Day 2: [Using Alias and String Functions in SQL Queries](https://medium.com/@ayndcell) |
+
+
+
+---
