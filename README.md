@@ -92,7 +92,7 @@ Let’s connect and learn together 🚀
 | Week   | Lessons / Tasks Done 🎯 | Reference Links 🔗 |
 |--------|--------------------------|--------------------|
 | Week 1 | Orientasi Industri & Literasi Data | - |
-| Week 2 | Data Collection & Understanding | 📘 Day 1: [Creating Tables and Running Basic SQL Queries Using Command Line ](https://medium.com/@ayndcell)(https://medium.com/@ayndcell/dasar-query-select-pada-mysql-cara-mengambil-data-dari-tabel-6fd2830003c0). (https://medium.com/@ayndcell/penggunaan-select-distinct-prefix-kolom-dan-alias-pada-sql-dalam-pengolahan-data-22bb3637dc96)<br>📘 Day 2: [Using Alias and String Functions in SQL Queries](https://medium.com/@ayndcell) |
+| Week 2 | Data Collection & Understanding | 📘 Day 1: [Creating Tables and Running Basic SQL Queries Using Command Line](https://medium.com/@ayndcell) (https://medium.com/@ayndcell/dasar-query-select-pada-mysql-cara-mengambil-data-dari-tabel-6fd2830003c0). (https://medium.com/@ayndcell/penggunaan-select-distinct-prefix-kolom-dan-alias-pada-sql-dalam-pengolahan-data-22bb3637dc96)<br>📘 Day 2: [Using Alias and String Functions in SQL Queries](https://medium.com/@ayndcell)<br>📘 Day 3: [Belajar SQL Dasar: Filter Data dengan WHERE di Database quiz_db1](https://medium.com/@ayndcell/belajar-sql-dasar-filter-data-dengan-where-di-database-quiz-db1-7ea579bc0cb1)<br>📘 Day 4: [Analisis Data Mahasiswa Menggunakan SQL: Fungsi Matematika, String, dan Agregasi](https://medium.com/@ayndcell/analisis-data-mahasiswa-menggunakan-sql-fungsi-matematika-string-dan-agregasi-bc6ce8e6041a) |
 
 
 
