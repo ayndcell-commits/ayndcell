@@ -93,6 +93,9 @@ Let’s connect and learn together 🚀
 |--------|--------------------------|--------------------|
 | Week 1 | Orientasi Industri & Literasi Data | - |
 | Week 2 | Data Collection & Understanding | 📘 Day 1: [Creating Tables and Running Basic SQL Queries Using Command Line](https://medium.com/@ayndcell) (https://medium.com/@ayndcell/dasar-query-select-pada-mysql-cara-mengambil-data-dari-tabel-6fd2830003c0). (https://medium.com/@ayndcell/penggunaan-select-distinct-prefix-kolom-dan-alias-pada-sql-dalam-pengolahan-data-22bb3637dc96)<br>📘 Day 2: [Using Alias and String Functions in SQL Queries](https://medium.com/@ayndcell)<br>📘 Day 3: [Belajar SQL Dasar: Filter Data dengan WHERE di Database quiz_db1](https://medium.com/@ayndcell/belajar-sql-dasar-filter-data-dengan-where-di-database-quiz-db1-7ea579bc0cb1)<br>📘 Day 4: [Analisis Data Mahasiswa Menggunakan SQL: Fungsi Matematika, String, dan Agregasi](https://medium.com/@ayndcell/analisis-data-mahasiswa-menggunakan-sql-fungsi-matematika-string-dan-agregasi-bc6ce8e6041a) |
+| Week 3 | Web App Development with Google Apps Script | 🔗 [Aplikasi Web Apps Script](https://script.google.com/macros/s/AKfycbx7oIHjtxEaJgcqH_RXmbfBk2DpqB7EnM4Cg7pXS8bLf0ZQB2kAu7C6aZEI0oFk0AVT/exec) |
+| Week 4 | Advanced Web App Project with Google Apps Script | 🔗 [Aplikasi Web Apps Script Lanjutan](https://script.google.com/macros/s/AKfycbwSFAw9m8sFv7EvKi6bD-dFr3xD3b3w2C2Gb6W-AZzhBb-tWfI43cS4ZTH4GLP2aHdDIg/exec) |
+| Week 5 | Final Web App Project with Google Apps Script | 🔗 [Aplikasi Web Apps Script Final](https://script.google.com/macros/s/AKfycbzJ5P3smH_0Iece_xbDveDSf8jc6rQNd6UcTJ30BpZa8jy7rP6Jlakj1TD4QvBRqS4u/exec) |
 
 
 
