@@ -97,7 +97,7 @@ Let’s connect and learn together 🚀
 | Week 4 | Advanced Web App Project with Google Apps Script | 🔗 [Aplikasi Web Apps Script Lanjutan](https://script.google.com/macros/s/AKfycbwSFAw9m8sFv7EvKi6bD-dFr3xD3b3w2C2Gb6W-AZzhBb-tWfI43cS4ZTH4GLP2aHdDIg/exec) |
 | Week 5 | Final Web App Project with Google Apps Script | 🔗 [Aplikasi Web Apps Script Final](https://script.google.com/macros/s/AKfycbzJ5P3smH_0Iece_xbDveDSf8jc6rQNd6UcTJ30BpZa8jy7rP6Jlakj1TD4QvBRqS4u/exec) |
 | Week 6 | Final Presentation & Design Project | 🎨 [Canva Presentation](https://canva.link/jyxdx1iz3optthx) |
-| Week 7 | Data Analysis Project (Superstore) | 📂 [Repository](https://github.com/ayndcell-commits/superstore-data-analysis)<br>📝 [Artikel](https://github.com/ayndcell-commits/superstore-data-analysis) |
+| Week 7 | Data Analysis Project (Superstore) | 📂 [Repository](https://github.com/ayndcell-commits/superstore-data-analysis)<br>📝 [Artikel]([https://github.com/ayndcell-commits/superstore-data-analysis](https://edusoftcenter.com/tampilan-aplikasi-sippo-berbasis-google-apps-script-web-app/)) |
 
 
 
